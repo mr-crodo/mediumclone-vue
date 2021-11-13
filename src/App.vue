@@ -1,6 +1,8 @@
 <template>
-  <div id="app">
+  <div>
     Hello Medium Clone
+
+    <router-view />
   </div>
 </template>
 
